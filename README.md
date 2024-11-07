@@ -1,5 +1,5 @@
 # software-tools
-This is all about exploring the github
+This is all about exploring the github.
 # Heading One
 - One
 - Two

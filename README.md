@@ -3,7 +3,7 @@ This is all about exploring the github
 # Heading One
 - One
 - Two
-# Heading Tw0
+# Heading Two
 > Test
 >
 | Syntax | Description |
